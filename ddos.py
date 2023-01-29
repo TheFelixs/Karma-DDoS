@@ -19,13 +19,13 @@ B  = '\033[1m'  # bold
 RR = '\033[3m'  # greencolor
 
 def logo():
- print("Karma")
+ print("K a r m a   T e a m")
 
 
 logo()
 
-print("\n\n\n\t\t\033[32m\033[1mMr.Bat")
-print("\033[33m\033[1m       UDP Port Flooder By \033[31m8h4i\033[0m")
+print("DDoS")
+print("By Karma")
 
 attack = raw_input("\n\n\n\033[1mWebsite or IP ==> \033[33m")
 
